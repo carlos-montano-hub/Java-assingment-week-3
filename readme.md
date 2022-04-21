@@ -5,7 +5,7 @@ The code expects a decompressed "movies.txt" (9.33Gb) file in the same folder th
 
 The code will create a "NumericCSVFile.csv" in the same folder
 
-The code was tested in two Mac computers with the IDE Intellij idea and this can be run with the command mvn test in either the IDE terminal or the OS terminal
+The code was tested in two Mac computers with the IDE Intellij idea and this can be run with the command mvn test in either the IDE terminal or the OS terminal in the folder "Java assigment week 3"
 
 In the case that something goes wrong, the code will print the solutions to the tests provided.
 
