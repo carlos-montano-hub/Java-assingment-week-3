@@ -1,3 +1,14 @@
+# Instructions for this specific code:
+
+The code expects a decompressed "movies.txt" (9.33Gb) file in the same folder the code is, which is: 
+"src/test/java/nearsoft/academy/bigdata/recommendation/movies.txt"
+
+The code will create a "NumericCSVFile.csv" in the same folder
+
+The code was tested in two Mac computers with the IDE Intellij idea and this can be run with the command mvn test in either the IDE terminal or the OS terminal
+
+In the case that something goes wrong, the code will print the solutions to the tests provided.
+
 # Big Data Exercises
 
 This repo contains several common big data exercises.
